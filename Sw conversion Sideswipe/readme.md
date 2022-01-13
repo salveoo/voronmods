@@ -5,3 +5,6 @@ _This mod was created remixing two mods: \
  • [SideSwipe](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe)_\
  \
  
+<p align="center">
+  <img width="650" src="images/front_view.png">
+</p>
