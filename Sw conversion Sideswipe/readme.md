@@ -12,8 +12,15 @@ _This mod was created remixing two mods: \
 #### Motion
 * 1x SG90 9g servo
 
-#### Screws
+#### Probe
+* 1x mouse switch (eg. Omron D2F-5)
+
+#### Fasteners
 * 2x M3x8 SHCS
-* 1x M3x12 SHCS
+* 3x M3x12 SHCS
 * 1x M3 t-nut for 2020 extrusion
 * 2x M2x10 Self-Tapping Screw
+* 2x M3 Threaded Insert
+
+#### Magnets
+* 6x 6mmx3mm magnets (tested working with N45 magnets)
