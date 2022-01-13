@@ -2,9 +2,8 @@
 This mod allows you to use a mechanical switch as a probe on your Switchwire conversion without losing any print volume. \
 _This mod was created remixing two mods: \
  • [Klicky](https://github.com/jlas1/Klicky-Probe) \
- • [SideSwipe](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe)_\
- \
+ • [SideSwipe](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe)_
  
 <p align="center">
-  <img width="650" src="images/front_view.png">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/149387503-d595729e-e1e6-4b9a-b025-eb09441cdddd.PNG">
 </p>
