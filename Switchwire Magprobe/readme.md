@@ -30,13 +30,17 @@ _This mod was created remixing two mods: \
 
 ## Assembly
 
-#### Servo bracket assembly
+### Servo bracket assembly
 
 [![Assembly Video](https://user-images.githubusercontent.com/44800440/149513064-0ea7c56b-e7a7-4d25-91e3-bf286cc3a1e2.PNG)](https://www.youtube.com/watch?v=f9rSsSu9G54 "YouTube")
+
+### Probe assembly
+
+[![Assembly Video](https://user-images.githubusercontent.com/44800440/149513064-0ea7c56b-e7a7-4d25-91e3-bf286cc3a1e2.PNG)](https://www.youtube.com/watch?v=f9rSsSu9G54 "YouTube")
+
+After assembling the probe, check continuity with a multimeter. You can read [probe troubleshooting](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe#troubleshooting) if you have continuity issues.
+# Magprobe for stock Voron Switchwire
 
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/44800440/149399188-3f970ee7-1c7d-456f-80e2-ab60e540ca9d.gif">
 </p>
-
-
-# Magprobe for stock Voron Switchwire
