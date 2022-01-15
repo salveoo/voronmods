@@ -10,7 +10,7 @@ _This mod was created remixing two mods: \
 
 ## BOM
 
-:heavy_exclamation_mark: _if you have a stock Switchwire go to >_ [Sideswipe for stock Voron Switchwire](https://github.com/jlas1/Klicky-Probe)
+:heavy_exclamation_mark: _if you have a stock Switchwire go to >_ [Sideswipe for stock Voron Switchwire](https://github.com/salveoo/voronmods/blob/main/Sw%20conversion%20Sideswipe/readme.md#assembly)
 
 #### Motion
 * 1x SG90 9g servo
