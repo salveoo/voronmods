@@ -51,6 +51,8 @@ After assembling the probe, check continuity with a multimeter. Follow this from
 </p>
 
 # Magprobe for stock Voron Switchwire
+:heavy_exclamation_mark: **Files for stock Switchwire have not been tested**, if you test them and want to give a feedback text me on Discord _Salveo#6988_
+
 Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carriage stop._
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/44800440/149634324-97af5b64-d085-4e78-8645-f5c690c22e6b.PNG">
