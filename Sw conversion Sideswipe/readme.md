@@ -1,4 +1,4 @@
-# Sideswipe mod for Voron Switchwire conversion
+# Sideswipe for Voron Switchwire conversion
 This mod allows you to use a mechanical switch as a probe on your Switchwire conversion without losing any print volume. \
 _This mod was created remixing two mods: \
  • [Klicky](https://github.com/jlas1/Klicky-Probe) \
@@ -9,6 +9,9 @@ _This mod was created remixing two mods: \
 </p>
 
 ## BOM
+
+:heavy_exclamation_mark: _if you have a stock Switchwire go to >_  Sideswipe for stock Voron Switchwire
+
 #### Motion
 * 1x SG90 9g servo
 
