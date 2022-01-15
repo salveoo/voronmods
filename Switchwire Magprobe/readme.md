@@ -38,7 +38,7 @@ _This mod was created remixing two mods: \
 
 [![Assembly Video](https://user-images.githubusercontent.com/44800440/149513064-0ea7c56b-e7a7-4d25-91e3-bf286cc3a1e2.PNG)](https://www.youtube.com/watch?v=f9rSsSu9G54 "YouTube")
 
-After assembling the probe, check continuity with a multimeter. You can read [probe troubleshooting](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe#troubleshooting) if you have continuity issues.
+After assembling the probe, check continuity with a multimeter. Follow this from Sideswipe's Github if you have continuity issues: [Probe troubleshooting](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe#troubleshooting)
 # Magprobe for stock Voron Switchwire
 
 <p align="center">
