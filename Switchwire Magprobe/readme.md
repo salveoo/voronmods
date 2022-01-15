@@ -10,7 +10,7 @@ _This mod was created remixing two mods: \
 
 ## BOM
 
-:heavy_exclamation_mark: **if you have a stock Switchwire go to >** [Sideswipe for stock Voron Switchwire](https://github.com/salveoo/voronmods/blob/main/Sw%20conversion%20Sideswipe/readme.md#sideswipe-for-stock-voron-switchwire)
+:heavy_exclamation_mark: **if you have a stock Switchwire go to >** [Magprobe for stock Voron Switchwire](https://github.com/salveoo/voronmods/blob/main/Sw%20conversion%20Sideswipe/readme.md#magprobe-for-stock-voron-switchwire)
 
 #### Motion
 * 1x SG90 9g servo
@@ -39,4 +39,4 @@ _This mod was created remixing two mods: \
 </p>
 
 
-# Sideswipe for stock Voron Switchwire
+# Magprobe for stock Voron Switchwire
