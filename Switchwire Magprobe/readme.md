@@ -1,4 +1,4 @@
-# Sideswipe for Voron Switchwire conversion
+# Magprobe for Voron Switchwire conversion
 This mod allows you to use a mechanical switch as a probe on your Switchwire conversion without losing any print volume. \
 _This mod was created remixing two mods: \
  • [Klicky](https://github.com/jlas1/Klicky-Probe) \
