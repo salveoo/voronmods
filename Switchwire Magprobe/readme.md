@@ -46,10 +46,15 @@ Use the zip tie holder for good cable management
 After assembling the probe, check continuity with a multimeter. Follow this from Sideswipe's Github if you have continuity issues: [Probe troubleshooting](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe#troubleshooting)
 
 ### Carriage mount
-
-
-# Magprobe for stock Voron Switchwire
-
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/44800440/149399188-3f970ee7-1c7d-456f-80e2-ab60e540ca9d.gif">
+</p>
+
+# Magprobe for stock Voron Switchwire
+Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carriage stop._
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/149634324-97af5b64-d085-4e78-8645-f5c690c22e6b.PNG">
+</p>
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/149634340-22f39ab5-4983-4210-a04f-ede80f9d4abc.PNG">
 </p>
