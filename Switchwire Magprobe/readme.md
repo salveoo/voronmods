@@ -60,3 +60,20 @@ Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carri
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/44800440/149634340-22f39ab5-4983-4210-a04f-ede80f9d4abc.PNG">
 </p>
+
+## BOM
+
+#### Motion
+* 1x SG90 9g servo
+
+#### Probe
+* 1x mouse switch (eg. Omron D2F-5)
+
+#### Fasteners
+* 2x M3x12 SHCS
+* 1x M5x10 BHCS
+* 1x M5 t-nut for 3030 extrusion
+* 4x M2x10 Self-Tapping Screw
+
+#### Magnets
+* 6x 6mmx3mm magnets (tested working with N45 magnets)
