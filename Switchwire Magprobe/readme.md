@@ -77,3 +77,10 @@ Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carri
 
 #### Magnets
 * 6x 6mmx3mm magnets (tested working with N45 magnets)
+
+## Assembly
+
+### Servo bracket assembly
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/149656454-41992511-92d7-49a3-b462-6b2750da8701.jpg">
+</p>
