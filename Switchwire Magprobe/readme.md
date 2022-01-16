@@ -50,7 +50,7 @@ Use the zip tie holder for good cable management
 
 After assembling the probe, check continuity with a multimeter. Follow this from Sideswipe's Github if you have continuity issues: [Probe troubleshooting](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe#troubleshooting)
 
-### Carriage mount
+### Carriage mount assembly
 The carriage mount is remixed from Klicky mod mount. Use 22-24 awg wires.
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/44800440/149658491-2cd745b7-0204-4ea6-b79d-f4a45913c59a.PNG">
