@@ -32,7 +32,7 @@ _This mod was created remixing two mods: \
 
 ### Servo bracket assembly
 
-[![Assembly Video](https://user-images.githubusercontent.com/44800440/149513064-0ea7c56b-e7a7-4d25-91e3-bf286cc3a1e2.PNG)](https://www.youtube.com/watch?v=f9rSsSu9G54 "YouTube")
+[![Assembly Video](https://user-images.githubusercontent.com/44800440/149658991-6837984c-57d8-451a-84df-fec141fa51c6.PNG)](https://youtu.be/O1bFm4f67_E "YouTube")
 
 Use the zip tie holder for good cable management
 <p align="center">
@@ -46,7 +46,7 @@ Use the zip tie holder for good cable management
 
 ### Probe assembly
 
-[![Assembly Video](https://user-images.githubusercontent.com/44800440/149513064-0ea7c56b-e7a7-4d25-91e3-bf286cc3a1e2.PNG)](https://www.youtube.com/watch?v=f9rSsSu9G54 "YouTube")
+[![Assembly Video](https://user-images.githubusercontent.com/44800440/149659009-e6c0bcc2-035e-4733-a51d-71897badaee7.PNG)](https://youtu.be/O1bFm4f67_E?t=41 "YouTube")
 
 After assembling the probe, check continuity with a multimeter. Follow this from Sideswipe's Github if you have continuity issues: [Probe troubleshooting](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe#troubleshooting)
 
