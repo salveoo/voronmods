@@ -66,6 +66,9 @@ Insert magnets, then test continuity with a multimeter.
   <img width="450" src="https://user-images.githubusercontent.com/44800440/149658667-55900f83-0ddf-436d-b72d-f05ef15fb426.PNG">
 </p>
 
+## Macros
+I have an Artillery Genius to Switchwire conversion so the coordinates of the macros could be slightly different for an Ender 3 conversion. If you get the macros working with an Ender 3 conversion text me on Discord Salveo#6988.
+
 
 # Magprobe for stock Voron Switchwire
 :heavy_exclamation_mark: **Files and macros for stock Switchwire have not been tested**, _if you test them and want to give a feedback text me on Discord Salveo#6988_
