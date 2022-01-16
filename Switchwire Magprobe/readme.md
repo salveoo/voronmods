@@ -109,11 +109,6 @@ Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carri
 
 ### Probe assembly
 
-[![Assembly Video](https://user-images.githubusercontent.com/44800440/149513064-0ea7c56b-e7a7-4d25-91e3-bf286cc3a1e2.PNG)](https://www.youtube.com/watch?v=f9rSsSu9G54 "YouTube")
+[![Assembly Video](https://user-images.githubusercontent.com/44800440/149659009-e6c0bcc2-035e-4733-a51d-71897badaee7.PNG)](https://youtu.be/O1bFm4f67_E?t=41 "YouTube")
 
 After assembling the probe, check continuity with a multimeter. Follow this from Sideswipe's Github if you have continuity issues: [Probe troubleshooting](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe#troubleshooting)
-
-
-<p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/149399188-3f970ee7-1c7d-456f-80e2-ab60e540ca9d.gif">
-</p>
