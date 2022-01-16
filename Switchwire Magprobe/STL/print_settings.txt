@@ -1,0 +1,2 @@
+probe_arm and probe_block => 0,12mm LH and 0,3 extrusion widht | 4 perimeters, 5 bottom and top layer, 40% infill
+all the other files => 0,2mm LH and 0,4 extrusion widht | 4 perimeters, 5 bottom and top layer, 40% infill
