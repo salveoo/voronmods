@@ -39,6 +39,11 @@ Use the zip tie holder for good cable management
   <img width="650" src="https://user-images.githubusercontent.com/44800440/149633455-a518e18b-b0b9-4823-84b7-ec0e9b0bce37.jpg">
 </p>
 
+:heavy_exclamation_mark: **Align the bed surface with the servo holder**
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/149656820-6d86d061-13e7-4aa4-93d1-d94646e55f35.jpg">
+</p>
+
 ### Probe assembly
 
 [![Assembly Video](https://user-images.githubusercontent.com/44800440/149513064-0ea7c56b-e7a7-4d25-91e3-bf286cc3a1e2.PNG)](https://www.youtube.com/watch?v=f9rSsSu9G54 "YouTube")
@@ -83,6 +88,11 @@ Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carri
 ### Servo bracket assembly
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/44800440/149656454-41992511-92d7-49a3-b462-6b2750da8701.jpg">
+</p>
+
+:heavy_exclamation_mark: **Align the bed surface with the servo holder**
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/149656820-6d86d061-13e7-4aa4-93d1-d94646e55f35.jpg">
 </p>
 
 ### Probe assembly
