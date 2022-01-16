@@ -1,4 +1,6 @@
-# Magprobe for Voron Switchwire conversion
+# Magprobe for Voron Switchwire conversion (beta)
+This is a beta test, CAD files will be released when the testing phase ends. \
+\
 :heavy_exclamation_mark: **if you have a stock Switchwire go to >** [Magprobe for stock Voron Switchwire](https://github.com/salveoo/voronmods/blob/main/Switchwire%20Magprobe/readme.md#magprobe-for-stock-voron-switchwire)
 
 This mod allows you to use a mechanical switch as a probe on your Switchwire conversion without losing any print volume. \
@@ -70,7 +72,7 @@ Insert magnets, then test continuity with a multimeter. Use 2x m3x12mm to bolt i
 I have an Artillery Genius to Switchwire conversion so the coordinates of the macros could be slightly different for an Ender 3 conversion. If you get the macros working with an Ender 3 conversion text me on Discord Salveo#6988.
 
 
-# Magprobe for stock Voron Switchwire
+# Magprobe for stock Voron Switchwire (beta)
 :heavy_exclamation_mark: **Files and macros for stock Switchwire have not been tested**, _if you test them and want to give a feedback text me on Discord Salveo#6988_
 
 Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carriage stop._. The print volume remains the same with this mod installed.
