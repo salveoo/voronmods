@@ -34,6 +34,7 @@ _This mod was created remixing two mods: \
 ## Assembly
 
 ### Servo bracket assembly
+*update: the probe arm doesn't use a 6mm magnet anymore, it has been replaced with an m3x8mm that threads in to the probe arm.
 
 [![Assembly Video](https://user-images.githubusercontent.com/44800440/149658991-6837984c-57d8-451a-84df-fec141fa51c6.PNG)](https://youtu.be/O1bFm4f67_E "YouTube")
 
@@ -104,6 +105,7 @@ Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carri
 ## Assembly
 
 ### Servo bracket assembly
+*update: the probe arm doesn't use a 6mm magnet anymore, it has been replaced with an m3x8mm that threads in to the probe arm.
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/44800440/149656454-41992511-92d7-49a3-b462-6b2750da8701.jpg">
 </p>
