@@ -36,12 +36,7 @@ _This mod was created remixing two mods: \
 ### Servo bracket assembly
 *update: the probe arm doesn't use a 6mm magnet anymore, it has been replaced with an m3x8mm that threads in to the probe arm.
 
-[![Assembly Video](https://user-images.githubusercontent.com/44800440/149658991-6837984c-57d8-451a-84df-fec141fa51c6.PNG)](https://youtu.be/O1bFm4f67_E "YouTube")
-
-Use the zip tie holder for good cable management
-<p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/149633455-a518e18b-b0b9-4823-84b7-ec0e9b0bce37.jpg">
-</p>
+*2nd update: the probe carrier is now a single model. Use 2x m3x8mm to secure it on the side of the bed.
 
 :heavy_exclamation_mark: **Align the bed surface with the servo holder**
 <p align="center">
