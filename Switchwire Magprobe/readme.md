@@ -23,10 +23,9 @@ _This mod was created remixing two mods: \
 
 #### Fasteners
 * 3x M3x8 SHCS
-* 3x M3x12 SHCS
-* 1x M3 t-nut for 2020 extrusion
+* 2x M3x12 SHCS
+* 2x M3 t-nut for 2020 extrusion
 * 4x M2x10 Self-Tapping Screw
-* 2x M3 Threaded Insert
 
 #### Magnets
 * 5x 6mmx3mm magnets (tested working with N45 magnets)
