@@ -81,10 +81,10 @@ I have an Artillery Genius to Switchwire conversion so the coordinates of the ma
 
 Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carriage stop._. The print volume remains the same with this mod installed.
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/149634324-97af5b64-d085-4e78-8645-f5c690c22e6b.PNG">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/150682952-b8e3eef1-726f-4422-90f9-c206865fc293.PNG">
 </p>
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/149634340-22f39ab5-4983-4210-a04f-ede80f9d4abc.PNG">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/150682891-efb3c00d-427f-4cef-b05e-2e5b0c17154b.PNG">
 </p>
 
 ## BOM
