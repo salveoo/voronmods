@@ -74,6 +74,22 @@ Insert magnets, then test continuity with a multimeter. Use 2x m3x12mm to bolt i
 ## Macros
 I have an Artillery Genius to Switchwire conversion so the coordinates of the macros could be slightly different for an Ender 3 conversion. If you get the macros working with an Ender 3 conversion text me on Discord Salveo#6988.
 
+## Z endstop holder
+To make this mod work you need something to home the Z axis. You can use this switch holder, it triggers with _Z_bearing block_. \
+You'll need:
+* 1x M5 t-nut for 2020 extrusion
+* 1x M5x10 BHCS
+* 2x M2x10 Self-Tapping Screw
+* 1x endstop switch (eg. Omron D2F-5L)
+
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/152431008-b01c142b-0052-4415-a26f-1988c88b602e.PNG">
+</p>
+
+_installed endstop_
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/152431149-c8a0ba00-6949-46b3-bee9-52257738dd3e.PNG">
+</p>
 
 # Magprobe for stock Voron Switchwire (beta)
 :heavy_exclamation_mark: **Files and macros for stock Switchwire have not been tested**, _if you test them and want to give a feedback text me on Discord Salveo#6988_
@@ -137,4 +153,22 @@ Make sure you have enought copper exposed to make good contact
 Insert magnets, then test continuity with a multimeter. Use 2x m3x12mm to bolt it on the carriage.
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/44800440/149658667-55900f83-0ddf-436d-b72d-f05ef15fb426.PNG">
+</p>
+
+## Z endstop holder
+To make this mod work you need something to home the Z axis. You can use this switch holder, it triggers with _Z_bearing block_. \
+You'll need:
+* 1x M5 t-nut for 3030 extrusion
+* 1x M5x10 BHCS
+* 2x M2x10 Self-Tapping Screw
+* 1x endstop switch (eg. Omron D2F-5L) \
+
+
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/152432002-f8ce0dfb-d88f-4d3b-adfe-a818cc789eec.PNG">
+</p>
+
+_installed endstop_
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/152432067-0efb7d29-ec72-45a5-b117-6e848f886109.PNG">
 </p>
