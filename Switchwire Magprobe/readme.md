@@ -1,6 +1,5 @@
 # Magprobe for Voron Switchwire conversion (beta)
-This is a beta test, CAD files will be released when the testing phase ends. \
-_I use a mechanical switch separated from the probe to home the Z axis. (switch holder for Z extrusion in progress)_ \
+_This is a beta test, CAD files will be released when the testing phase ends._ \
 \
 :heavy_exclamation_mark: **if you have a stock Switchwire go to >** [Magprobe for stock Voron Switchwire](https://github.com/salveoo/voronmods/blob/main/Switchwire%20Magprobe/readme.md#magprobe-for-stock-voron-switchwire-beta)
 
