@@ -9,7 +9,7 @@ _This mod was created remixing two mods: \
  • [SideSwipe](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe)_
  
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/149387503-d595729e-e1e6-4b9a-b025-eb09441cdddd.PNG">
+  <img width="750" src="https://user-images.githubusercontent.com/44800440/152563247-93c3d950-142e-4bd2-89d5-88d2306ed020.jpg">
 </p>
 
 ## BOM
