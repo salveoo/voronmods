@@ -164,10 +164,10 @@ You'll need:
 
 
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/152432002-f8ce0dfb-d88f-4d3b-adfe-a818cc789eec.PNG">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/152558428-7f2b6f03-d583-4e1b-a5b0-b9ba12750edc.jpg">
 </p>
 
 _installed endstop_
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/152432067-0efb7d29-ec72-45a5-b117-6e848f886109.PNG">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/152558579-54654277-59f0-47aa-8aed-35174abe7343.PNG">
 </p>
