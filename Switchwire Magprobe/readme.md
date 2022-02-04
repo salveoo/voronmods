@@ -82,7 +82,7 @@ You'll need:
 * 1x endstop switch (eg. Omron D2F-5L)
 
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/152510938-0bd3910d-8dd4-4e29-87ee-e5ca3861c8ce.PNG">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/152511671-61c674d6-5adf-4ad7-9fda-3c36949a8c1e.jpg">
 </p>
 
 _installed endstop_
