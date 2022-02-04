@@ -82,12 +82,12 @@ You'll need:
 * 1x endstop switch (eg. Omron D2F-5L)
 
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/152431008-b01c142b-0052-4415-a26f-1988c88b602e.PNG">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/152510938-0bd3910d-8dd4-4e29-87ee-e5ca3861c8ce.PNG">
 </p>
 
 _installed endstop_
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/152431149-c8a0ba00-6949-46b3-bee9-52257738dd3e.PNG">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/152510978-971cfa0e-32ee-4717-8d34-0600e4328b7e.PNG">
 </p>
 
 # Magprobe for stock Voron Switchwire (beta)
