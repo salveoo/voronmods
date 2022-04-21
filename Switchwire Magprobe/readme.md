@@ -1,4 +1,4 @@
-# Magprobe for Voron Switchwire conversion (beta)
+# Magprobe for Voron Switchwire conversion
 
 :heavy_exclamation_mark: **if you have a stock Switchwire go to >** [Magprobe for stock Voron Switchwire](https://github.com/salveoo/voronmods/blob/main/Switchwire%20Magprobe/readme.md#magprobe-for-stock-voron-switchwire-beta)
 
