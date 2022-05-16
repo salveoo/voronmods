@@ -34,6 +34,10 @@ _This mod was created remixing two mods: \
 Use 1x m3x8mm and screw it in to the probe arm. 
 *2nd update: the probe carrier is now a single model. Use 2x m3x8mm to secure it on the side of the bed.
 <p align="center">
+  <img width="750" src="https://user-images.githubusercontent.com/44800440/168628041-96f37d67-91ab-4cc4-81ca-596a2e7cf0d8.png">
+</p>
+
+<p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/44800440/168571735-474684f4-5fc4-45aa-9e3f-4a37df368c4b.png">
 </p>
 
