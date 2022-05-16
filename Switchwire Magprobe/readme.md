@@ -124,9 +124,18 @@ Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carri
 ## Assembly
 
 ### Servo bracket assembly
-*update: the probe arm doesn't use a 6mm magnet anymore, it has been replaced with an m3x8mm that threads in to the probe arm.
+* Secure the servo motor using 2x m2x10mm self tapping
+* Use 1x m3x8mm and screw it in to the probe arm
+* Use the small screw provided with the servo to secure the arm in place
+
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/149656454-41992511-92d7-49a3-b462-6b2750da8701.jpg">
+  <img width="750" src="https://user-images.githubusercontent.com/44800440/168630001-fed1f48e-87ea-41d5-bd78-2f27e7621041.png">
+</p>
+
+* Use 1x m5x10mm to secure it on the side of the bed.
+
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/44800440/168630280-66619cab-5f25-4168-9a47-349ff3f23ee8.png">
 </p>
 
 :heavy_exclamation_mark: **Align the bed surface with the servo holder**
