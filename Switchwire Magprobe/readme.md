@@ -95,6 +95,8 @@ _installed endstop_
 </p>
 
 # Magprobe for stock Voron Switchwire
+:heavy_exclamation_mark: **if you have a Switchwire Conversion go to >** [Magprobe for Voron Switchwire conversion](https://github.com/salveoo/voronmods/tree/main/Switchwire%20Magprobe#magprobe-for-voron-switchwire-conversion)
+
 :heavy_exclamation_mark: **Files and macros for stock Switchwire have not been tested**, _if you test them and want to give a feedback text me on Discord Salveo#6988_
 
 Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carriage stop._. The print volume remains the same with this mod installed.
