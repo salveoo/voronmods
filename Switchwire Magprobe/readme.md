@@ -79,13 +79,9 @@ You'll need:
 * 2x M2x10 Self-Tapping Screw
 * 1x endstop switch (eg. Omron D2F-5L)
 
-<p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/152511671-61c674d6-5adf-4ad7-9fda-3c36949a8c1e.jpg">
-</p>
-
-_installed endstop_
-<p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/152510978-971cfa0e-32ee-4717-8d34-0600e4328b7e.PNG">
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44800440/152511671-61c674d6-5adf-4ad7-9fda-3c36949a8c1e.jpg" width="600" />
+  <img src="https://user-images.githubusercontent.com/44800440/152510978-971cfa0e-32ee-4717-8d34-0600e4328b7e.PNG" width="400" /> 
 </p>
 
 # Magprobe for stock Voron Switchwire
@@ -171,11 +167,7 @@ You'll need:
 * 1x endstop switch (eg. Omron D2F-5L) \
 
 
-<p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/152593542-cff656ec-0d70-4874-a098-0d4352e299d8.jpg">
-</p>
-
-_installed endstop_
-<p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/152593603-c5767be7-884d-44fb-acf5-afcc16806252.PNG">
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44800440/152593542-cff656ec-0d70-4874-a098-0d4352e299d8.jpg" width="600" />
+  <img src="https://user-images.githubusercontent.com/44800440/152593603-c5767be7-884d-44fb-acf5-afcc16806252.PNG" width="400" /> 
 </p>
