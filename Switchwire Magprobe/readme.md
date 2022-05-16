@@ -11,8 +11,6 @@ _This mod was created remixing two mods: \
   <img width="750" src="https://user-images.githubusercontent.com/44800440/168631507-f99f8f06-4e40-418c-aa6b-180f4b672ca1.png">
 </p>
 
-
-
 ## BOM
 
 #### Motion
@@ -59,19 +57,15 @@ _This mod was created remixing two mods: \
 After assembling the probe, check continuity with a multimeter. Follow this from Sideswipe's Github if you have continuity issues: [Probe troubleshooting](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe#troubleshooting)
 
 ### Carriage mount assembly
-The carriage mount is remixed from Klicky mod mount. Use 22-24 awg wires.
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/44800440/149658491-2cd745b7-0204-4ea6-b79d-f4a45913c59a.PNG">
-</p>
+1. The carriage mount is remixed from Klicky mod mount. Use 22-24 awg wires
+2. Make sure you have enought copper exposed to make good contact
+3. Insert magnets, then test continuity with a multimeter. Use 2x m3x12mm to bolt it on the carriage
 
-Make sure you have enought copper exposed to make good contact
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/44800440/149658600-6b11f98c-69b1-4c8f-90c0-92baa65341c1.PNG">
-</p>
 
-Insert magnets, then test continuity with a multimeter. Use 2x m3x12mm to bolt it on the carriage.
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/44800440/149658667-55900f83-0ddf-436d-b72d-f05ef15fb426.PNG">
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44800440/149658491-2cd745b7-0204-4ea6-b79d-f4a45913c59a.PNG" width="320" />
+  <img src="https://user-images.githubusercontent.com/44800440/149658600-6b11f98c-69b1-4c8f-90c0-92baa65341c1.PNG" width="320" /> 
+  <img src="https://user-images.githubusercontent.com/44800440/149658667-55900f83-0ddf-436d-b72d-f05ef15fb426.PNG" width="320" />
 </p>
 
 ## Macros
@@ -156,20 +150,17 @@ Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carri
 After assembling the probe, check continuity with a multimeter. Follow this from Sideswipe's Github if you have continuity issues: [Probe troubleshooting](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe#troubleshooting)
 
 ### Carriage mount assembly
-The carriage mount is remixed from Klicky mod mount. Use 22-24 awg wires.
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/44800440/149658491-2cd745b7-0204-4ea6-b79d-f4a45913c59a.PNG">
+1. The carriage mount is remixed from Klicky mod mount. Use 22-24 awg wires
+2. Make sure you have enought copper exposed to make good contact
+3. Insert magnets, then test continuity with a multimeter. Use 2x m3x12mm to bolt it on the carriage
+
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/44800440/149658491-2cd745b7-0204-4ea6-b79d-f4a45913c59a.PNG" width="320" />
+  <img src="https://user-images.githubusercontent.com/44800440/149658600-6b11f98c-69b1-4c8f-90c0-92baa65341c1.PNG" width="320" /> 
+  <img src="https://user-images.githubusercontent.com/44800440/149658667-55900f83-0ddf-436d-b72d-f05ef15fb426.PNG" width="320" />
 </p>
 
-Make sure you have enought copper exposed to make good contact
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/44800440/149658600-6b11f98c-69b1-4c8f-90c0-92baa65341c1.PNG">
-</p>
-
-Insert magnets, then test continuity with a multimeter. Use 2x m3x12mm to bolt it on the carriage.
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/44800440/149658667-55900f83-0ddf-436d-b72d-f05ef15fb426.PNG">
-</p>
 
 ## Z endstop holder
 To make this mod work you need something to home the Z axis. You can use this switch holder, it triggers with _Z_bearing block_. \
