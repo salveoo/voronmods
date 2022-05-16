@@ -6,10 +6,12 @@ This mod allows you to use a mechanical switch as a probe on your Switchwire con
 _This mod was created remixing two mods: \
  • [Klicky](https://github.com/jlas1/Klicky-Probe) \
  • [SideSwipe](https://github.com/oldfar-t/Side-Swipe-Magnetic-Probe)_
- 
+
 <p align="center">
-  <img width="750" src="https://user-images.githubusercontent.com/44800440/152563247-93c3d950-142e-4bd2-89d5-88d2306ed020.jpg">
+  <img width="750" src="https://user-images.githubusercontent.com/44800440/168631507-f99f8f06-4e40-418c-aa6b-180f4b672ca1.png">
 </p>
+
+
 
 ## BOM
 
@@ -96,11 +98,9 @@ _installed endstop_
 :heavy_exclamation_mark: **Files and macros for stock Switchwire have not been tested**, _if you test them and want to give a feedback text me on Discord Salveo#6988_
 
 Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carriage stop._. The print volume remains the same with this mod installed.
+
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/150682952-b8e3eef1-726f-4422-90f9-c206865fc293.PNG">
-</p>
-<p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/44800440/150682891-efb3c00d-427f-4cef-b05e-2e5b0c17154b.PNG">
+  <img width="750" src="https://user-images.githubusercontent.com/44800440/152563247-93c3d950-142e-4bd2-89d5-88d2306ed020.jpg">
 </p>
 
 ## BOM
@@ -136,6 +136,10 @@ Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carri
 
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/44800440/168630280-66619cab-5f25-4168-9a47-349ff3f23ee8.png">
+</p>
+
+<p align="center">
+  <img width="550" src="https://user-images.githubusercontent.com/44800440/150682891-efb3c00d-427f-4cef-b05e-2e5b0c17154b.PNG">
 </p>
 
 :heavy_exclamation_mark: **Align the bed surface with the servo holder**
