@@ -1,5 +1,6 @@
 # Reverse probe (beta)
 
 <p align="center">
-  <img width="150" src="https://user-images.githubusercontent.com/44800440/188012279-e9a3bb94-23e5-4271-8c38-97c33535d83b.jpg">
+  <img width="1050" src="https://user-images.githubusercontent.com/44800440/188014465-065af8de-f46c-436f-bcae-0b9f048c78ec.jpg">
 </p>
+
