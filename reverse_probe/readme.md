@@ -15,10 +15,9 @@
 
 ## Assembly
 *click to see the video*
-[![Assembly Video](https://user-images.githubusercontent.com/44800440/188210821-8fd1178c-1e3d-4187-9ab7-67bd1f57ba7a.png)](https://www.youtube.com/watch?v=pl0y2BOf33Q "YouTube")
 
 <p align="center">
-  <a href="https://youtu.be/pl0y2BOf33Q?t" title="video text"><img src="https://user-images.githubusercontent.com/44800440/188210821-8fd1178c-1e3d-4187-9ab7-67bd1f57ba7a.png" width="850"></a>
+  <a href="https://youtu.be/pl0y2BOf33Q?t" title="video text"><img src="https://user-images.githubusercontent.com/44800440/188210821-8fd1178c-1e3d-4187-9ab7-67bd1f57ba7a.png" width="800"></a>
 </p>
 
 ## Probe holder
