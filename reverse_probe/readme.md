@@ -17,7 +17,7 @@
 *click to see the video*
 
 <p align="center">
-  <a href="https://youtu.be/pl0y2BOf33Q?t" title="video text"><img src="https://user-images.githubusercontent.com/44800440/188210821-8fd1178c-1e3d-4187-9ab7-67bd1f57ba7a.png" width="800"></a>
+  <a href="https://www.youtube.com/watch?v=RXpmBz95bas" title="video text"><img src="https://user-images.githubusercontent.com/44800440/188210821-8fd1178c-1e3d-4187-9ab7-67bd1f57ba7a.png" width="800"></a>
 </p>
 
 ## Probe holder
@@ -32,7 +32,7 @@ I modified the removable part of [Klicky](https://github.com/jlas1/Klicky-Probe)
 
 ## Macros
 *As you can see in the assembly video I have a particular setup, so I can't provide macros.* \
-You can watch [this part of the assembly video](https://youtu.be/pl0y2BOf33Q?t=92) to have an idea of the **docking and undocking sequence.**
+You can watch [this part of the assembly video](https://www.youtube.com/watch?v=RXpmBz95bas?t=92) to have an idea of the **docking and undocking sequence.**
 
 ### probe offset
 **z_offset: 6.5 \
