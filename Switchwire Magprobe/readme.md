@@ -11,6 +11,15 @@ _This mod was created remixing two mods: \
   <img width="750" src="https://user-images.githubusercontent.com/44800440/168631507-f99f8f06-4e40-418c-aa6b-180f4b672ca1.png">
 </p>
 
+## Probe alternative
+
+<p align="center">
+  <img width="550" src="https://user-images.githubusercontent.com/44800440/198874021-07a66334-d244-455a-ac9b-d49d1d243341.png">
+</p>
+
+You can use the Reverse probe with this mod. **Print probe_arm_REVERSE.stl instead of probe_arm.stl.** \
+Check [Reverse probe](https://github.com/salveoo/voronmods/tree/main/reverse_probe) repo for more informations.
+
 ## BOM
 
 #### Motion
@@ -94,6 +103,16 @@ Magprobe for stock Switchwire is easy to mount and bolts under the _left Z carri
 <p align="center">
   <img width="750" src="https://user-images.githubusercontent.com/44800440/152563247-93c3d950-142e-4bd2-89d5-88d2306ed020.jpg">
 </p>
+
+
+## Probe alternative
+
+<p align="center">
+  <img width="550" src="https://user-images.githubusercontent.com/44800440/198874021-07a66334-d244-455a-ac9b-d49d1d243341.png">
+</p>
+
+You can use the Reverse probe with this mod. **Print probe_arm_REVERSE.stl instead of probe_arm.stl.** \
+Check [Reverse probe](https://github.com/salveoo/voronmods/tree/main/reverse_probe) repo for more informations.
 
 ## BOM
 
